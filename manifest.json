@@ -6,7 +6,7 @@
     "url": "https://chattermill.com"
   },
   "defaultLocale": "en",
-  "private": true,
+  "private": false,
   "location": {
     "support": {
       "background": "assets/iframe.html"
