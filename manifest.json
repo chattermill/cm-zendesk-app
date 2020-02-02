@@ -9,9 +9,9 @@
   "private": false,
   "location": {
     "support": {
-      "background": "assets/iframe.html"
     }
   },
   "version": "1.0",
-  "frameworkVersion": "2.0"
+  "marketingOnly": true,
+  "gaID": "UA-65053838-11"
 }
