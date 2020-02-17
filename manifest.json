@@ -9,6 +9,8 @@
   "private": false,
   "location": {
     "support": {
+    },
+    "chat":{
     }
   },
   "marketingOnly": true,
